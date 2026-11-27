@@ -1,0 +1,6 @@
+{
+  "name": "Noël Lumière — 3D Interactive Christmas Tree",
+  "description": "An interactive 3D particle Christmas tree with spiral golden lights, customizable polaroid memories, interactive gift boxes, hot-foil gift cards, and optional MediaPipe hand gesture control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
